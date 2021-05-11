@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+c:\users\mafaza amsal\desktop\computer science\semester iv\algo\algo sorting assignment\project1\source1.cpp(417): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mafaza amsal\desktop\computer science\semester iv\algo\algo sorting assignment\project1\source1.cpp(419): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mafaza amsal\desktop\computer science\semester iv\algo\algo sorting assignment\project1\source1.cpp(427): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\Mafaza Amsal\Desktop\Computer Science\Semester IV\Algo\ALGO Sorting Assignment\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Mafaza Amsal\Desktop\Computer Science\Semester IV\Algo\ALGO Sorting Assignment\Debug\Project1.pdb (Partial PDB)
